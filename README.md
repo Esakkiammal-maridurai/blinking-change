@@ -2,7 +2,7 @@
 
 ## Project Description
 This project demonstrates LED blinking using an ESP32 board.
-The LED turns ON for 1 second and OFF for 1 second continuously.
+The built-in LED turns ON for 1 second and OFF for 1 second continuously.
 
 ## Tools Used
 - ESP32
@@ -17,5 +17,5 @@ The LED turns ON for 1 second and OFF for 1 second continuously.
 5. It waits for 1 second.
 6. This process repeats continuously.
 
-## Simulation
-The project was created and tested using Wokwi ESP32 Simulator.
+## Wokwi Simulation
+https://wokwi.com/projects/476235400139299841
